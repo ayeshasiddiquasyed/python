@@ -1,0 +1,9 @@
+i=1;c=0;s=0
+while(i<=7):
+  print(i)
+  c=c+1
+  s=s+1
+  i=i+1
+print("count=",c)
+print("sum=",s)
+print("Average=",(s/c))
